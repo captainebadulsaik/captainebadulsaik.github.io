@@ -2,10 +2,10 @@
 body{
     margin: 0%;
     padding:0%;
-    background: fixed;
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-image: url(/luke-chesser-pJadQetzTkI-unsplash.jpg);
+    background-size:auto;
+    background: rgb(30,27,92);
+    background: linear-gradient(331deg, rgba(30,27,92,1) 10%, rgba(9,9,121,1) 18%, rgba(0,212,255,1) 85%);
 }
 h1{
     color: aliceblue;
